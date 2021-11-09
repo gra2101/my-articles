@@ -96,8 +96,8 @@ After running the code above, your output should look like this:
 
 
 ### RESOURCES
-OpenCV library is an amazing library that makes computer process images and videos just like humans can do.
-To advance your studies on Python OpenCV, you can see the official documentation  [here](https://pdfroom.com/books/opencv-python-tutorials-documentation/qlgyyaxmgMG) or check out other resources like;
+OpenCV library is an amazing library that makes a computer process images and videos just like humans can do.
+To advance your studies on Python OpenCV, you can see the documentation  [here](https://pdfroom.com/books/opencv-python-tutorials-documentation/qlgyyaxmgMG) or check out other resources like;
 1. 
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/oXlwWbU8l2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="0">
 </iframe>

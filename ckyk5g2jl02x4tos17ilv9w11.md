@@ -1,7 +1,7 @@
 ## Introduction To Agile
 
 ## AGILE METHODOLOGY?
-Agile methodology is one of the methods used in software development that allows the development team of a project and their prospective clients to collaborate in each phase of the software development life cycle [(SDLC)](https://phoenixnap.com/blog/software-development-life-cycle#:~:text=Software%20Development%20Life%20Cycle%20is,%2C%20Test%2C%20Deploy%2C%20Maintain.&text=SDLC%20is%20a%20way%20to%20measure%20and%20improve%20the%20development%20process.) and throughout the project until it is finished. 
+Agile methodology is one of the methods used in software development that allows the development team of a project, and their prospective clients, to collaborate in each phase of the software development life cycle [(SDLC)](https://phoenixnap.com/blog/software-development-life-cycle#:~:text=Software%20Development%20Life%20Cycle%20is,%2C%20Test%2C%20Deploy%2C%20Maintain.&text=SDLC%20is%20a%20way%20to%20measure%20and%20improve%20the%20development%20process.) and throughout the project until it is finished. 
 
 Agile assists in building better software by responding to business needs before the finishing phase of the development process.
 

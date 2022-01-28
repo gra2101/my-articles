@@ -1,4 +1,4 @@
-## How To Generate A Qr Code Using Python
+## How To Generate A QR Code Using Python
 
 ## INTRO
 To start with, **QR** in **QR code** is an acronym for **Quick Response**. It is an easy and convenient way to store all kinds of data in a small space. QR code can store over 2000 characters in a small space.

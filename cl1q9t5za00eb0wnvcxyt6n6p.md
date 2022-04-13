@@ -52,7 +52,7 @@ To create this file, type the following command in your terminal:
 ### STEP 3 - Creating a runtime.txt File
 Specifying the version of python you are using for your project will not allow Heroku to use its default version of python. Also, it will help other developers know the version of python your project was built on. To do this;
 - First, type ```python --version``` to view the version of python you are currently working with. 
-- Then, create a runtime.text file in your project's root folder and type in the version of your python in this format:
+- Then, create a runtime.txt file in your project's root folder and type in the version of your python in this format:
 ![runtime-screenshot.PNG](https://cdn.hashnode.com/res/hashnode/image/upload/v1649282673762/h0Zv84_x_.PNG)
 
 ### STEP 4 - Importing Heroku Into your Project

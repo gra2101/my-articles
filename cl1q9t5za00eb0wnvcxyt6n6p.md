@@ -1,7 +1,7 @@
 ---
 title: "How To Deploy A Django App To Heroku"
 seoTitle: "How to Deploy a Django App to Heroku"
-datePublished: Sat Jan 28 2023 23:44:48 GMT+0000 (Coordinated Universal Time)
+datePublished: Fri Mar 10 2023 23:44:48 GMT+0000 (Coordinated Universal Time)
 cuid: cl1q9t5za00eb0wnvcxyt6n6p
 slug: how-to-deploy-a-django-app-to-heroku
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1649186857807/nT59LAgrp.jpg
